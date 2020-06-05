@@ -45,6 +45,8 @@ Tudo isso respeitando o nível de permissão do usuário
 - **Vizualizar, Cadastrar, Editar e Excluir Produtos:**
 Respeitando o nível de permissão do usuário
 
+---
+
 ## ⚙ Para clonar o projeto
 
 ```bash
