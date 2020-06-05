@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2VQWW/xN36dpAGdxEXfSUHOWkPDHu1Xf2JzGKn7RxDp7gxZ4C3i/SWEXZiwl+pfwYtXxEZjqeRlNyVSVR1VFgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rodrigo\\Documents\\cursos\\desenvolvedorIO\\02_dominando_ASPdotNET_MVC_Core\\GitHub\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

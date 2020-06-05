@@ -1,0 +1,9 @@
+C:\Users\Rodrigo\Documents\cursos\desenvolvedorIO\02_dominando_ASPdotNET_MVC_Core\10_DesenvolvendoAppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\bin\Release\netcoreapp3.1\DevIO.Business.deps.json
+C:\Users\Rodrigo\Documents\cursos\desenvolvedorIO\02_dominando_ASPdotNET_MVC_Core\10_DesenvolvendoAppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\bin\Release\netcoreapp3.1\DevIO.Business.dll
+C:\Users\Rodrigo\Documents\cursos\desenvolvedorIO\02_dominando_ASPdotNET_MVC_Core\10_DesenvolvendoAppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\bin\Release\netcoreapp3.1\DevIO.Business.pdb
+C:\Users\Rodrigo\Documents\cursos\desenvolvedorIO\02_dominando_ASPdotNET_MVC_Core\10_DesenvolvendoAppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Documents\cursos\desenvolvedorIO\02_dominando_ASPdotNET_MVC_Core\10_DesenvolvendoAppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\cursos\desenvolvedorIO\02_dominando_ASPdotNET_MVC_Core\10_DesenvolvendoAppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Documents\cursos\desenvolvedorIO\02_dominando_ASPdotNET_MVC_Core\10_DesenvolvendoAppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.AssemblyInfo.cs
+C:\Users\Rodrigo\Documents\cursos\desenvolvedorIO\02_dominando_ASPdotNET_MVC_Core\10_DesenvolvendoAppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.dll
+C:\Users\Rodrigo\Documents\cursos\desenvolvedorIO\02_dominando_ASPdotNET_MVC_Core\10_DesenvolvendoAppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Release\netcoreapp3.1\DevIO.Business.pdb
